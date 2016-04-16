@@ -1,0 +1,44 @@
+SOUNDS/en/;mltrtr.wav;multirotor
+SOUNDS/en/;stblz.wav;Stabilize
+SOUNDS/en/;stblzmd.wav;Stabilize mode
+SOUNDS/en/;auto.wav;Auto
+SOUNDS/en/;autort.wav;Auto Rotation
+SOUNDS/en/;fbwa.wav;fly by wire A
+SOUNDS/en/;fbwb.wav;fly by wire B
+SOUNDS/en/;crcl.wav;circle
+SOUNDS/en/;crclmd.wav;circle mode
+SOUNDS/en/;waypt.wav;waypoint
+SOUNDS/en/;clmbmd.wav;climbing mode
+SOUNDS/en/;althld.wav;altitude hold
+SOUNDS/en/;poshld.wav;position hold
+SOUNDS/en/;gpsmd.wav;GPS mode
+SOUNDS/en/;attmd.wav;Attitude mode
+SOUNDS/en/;slflvl.wav;Self level mode
+SOUNDS/en/;slflvlm.wav;Self level mixing mode
+SOUNDS/en/;quadc.wav;quadcopter
+SOUNDS/en/;tric.wav;tricopter
+SOUNDS/en/;hexc.wav;hexacopter
+SOUNDS/en/;octc.wav;octocopter
+SOUNDS/en/;uav.wav;UAV
+SOUNDS/en/;fpv.wav;FPV
+SOUNDS/en/;fpvf.wav;From Pilots View
+SOUNDS/en/;hybrd.wav;hybrid
+SOUNDS/en/;hybrdmd.wav;hybrid mode
+SOUNDS/en/;drft.wav;drift
+SOUNDS/en/;drftmd.wav;drift mode
+SOUNDS/en/;auto.wav;auto
+SOUNDS/en/;automd.wav;auto mode
+SOUNDS/en/;acro.wav;acro
+SOUNDS/en/;acromd.wav;acro mode
+SOUNDS/en/;sprt.wav;sport
+SOUNDS/en/;sprtmd.wav;sport mode
+SOUNDS/en/;gidd.wav;guided
+SOUNDS/en/;giddmd.wav;guided mode
+SOUNDS/en/;flwme.wav;follow me
+SOUNDS/en/;flwmemd.wav;follow me mode
+SOUNDS/en/;angl.wav;angle
+SOUNDS/en/;anglmd.wav;angle mode
+SOUNDS/en/;hrzn.wav;horizon
+SOUNDS/en/;hrznmd.wav;horizon mode
+SOUNDS/en/;auttn.wav;auto tune
+SOUNDS/en/;auttnmd.wav;auto tune mode
