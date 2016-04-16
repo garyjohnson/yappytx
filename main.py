@@ -22,10 +22,7 @@ def main():
             os.makedirs(path, exist_ok=True)
             wav_file_path = os.path.join(path, row[1])
             print(wav_file_path)
-            pre, ext = os.path.splitext(wav_file_path)
-            aiff_file_path = pre + '.aiff'
-            print(aiff_file_path)
-            subprocess.call("say -o {} \"{}\"".format(aiff_file_path, row[2]), shell=True)
+            subprocess.call("say -o {} --data-format=ulaw \"{}\"".format(wav_file_path, row[2]), shell=True)
 
 if __name__ == '__main__':
     main()
